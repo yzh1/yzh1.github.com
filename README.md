@@ -6,8 +6,9 @@ Bellard's vt100 for [jslinux](http://bellard.org/jslinux/).
 ## Screenshots
 
 ### irssi
+https://www.mychrometheme.com/install/dq6msidg11hj11ovc9ciew1fm
 
-![](http://i.imgur.com/wqare.png)
+![](https://www.mychrometheme.com/preview/dq6msidg11hj11ovc9ciew1fm)
 
 ### vim & alsamixer
 
